@@ -17,3 +17,14 @@ Another popular belief is that males exhibit greater lateralization for language
 
 Conclusion: The Bottom Line on Sexual Dimorphism in the Brain
 While it is tempting to focus on the anatomical differences between male and female brains, the scientific evidence suggests that these differences, when they do exist, are often subtle and influenced by various factors such as body size, age, and developmental stage. In fact, many studies have failed to replicate early claims of sexual dimorphism in key brain areas like the corpus callosum or lateralization for language. The male brain may be larger and more myelinated, but these differences do not necessarily imply significant functional disparities. Rather than focusing on simplistic narratives of male and female brains, ongoing research is showing us a much more complex, nuanced picture of brain structure and function across sexes.
+
+References
+Eliot, L., Ahmed, A., Khan, H., & Patel, J. (2021). Dump the “dimorphism”: Comprehensive synthesis of human brain studies reveals few male-female differences beyond size. Neuroscience & Biobehavioral Reviews, 125, 667-697.
+ 
+Korol DL (November 2004). "Role of estrogen in balancing contributions from multiple memory systems". Neurobiology of Learning and Memory. 82 (3): 309–23. doi:10.1016/j.nlm.2004.07.006. PMID 15464412. S2CID 19893375.
+ 
+Marner L, Nyengaard JR, Tang Y, Pakkenberg B (July 2003). "Marked loss of myelinated nerve fibers in the human brain with age". The Journal of Comparative Neurology. 462 (2): 144–52. doi:10.1002/cne.10714. PMID 12794739. S2CID 35293796.
+ 
+Raznahan, A., & Disteche, C. M. (2021). X-chromosome regulation and sex differences in brain anatomy. Neuroscience & Biobehavioral Reviews, 120, 28-47.
+ 
+Savic, I. (2010). Sex Differences in the Human Brain, their Underpinnings and Implications (Journal review series). ISSN. Elsevier Science. ISBN 978-0-444-53631-0. Retrieved 2021-12-26.
